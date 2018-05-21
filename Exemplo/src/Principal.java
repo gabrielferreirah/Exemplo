@@ -9,7 +9,7 @@ import javax.swing.JOptionPane;
 
 /**
  *
- * @author Alunos
+ * @author Alunos Carlos Augusto Borges e Gabriel de Oliveira Ferreira. 
  */
 public class Principal {
 
